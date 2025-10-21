@@ -28,5 +28,5 @@ Python (pandas, scikit-learn), SQL, Git/GitHub, Data visualization, Basic statis
 
 ## Contact
 - Email: diegoa.loayzall@gmail.com
-- GitHub: [github.com/USERNAME](https://github.com/USERNAME)
-- LinkedIn: add later
+- GitHub: [github.com/Diego-Loayza-CS](https://github.com/Diego-Loayza-CS)
+- LinkedIn: [linkedin.com/in/diego-loayza-cs/](https://www.linkedin.com/in/diego-loayza-cs/)
