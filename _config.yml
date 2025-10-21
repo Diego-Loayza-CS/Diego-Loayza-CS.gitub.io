@@ -1,0 +1,7 @@
+theme: jekyll-theme-minimal
+title: Diego Loayza
+description: Computer Science @ BYU • Early-career ML & data
+logo: /assets/profile.jpg
+show_downloads: false
+github:
+  is_project_page: false
